@@ -6,6 +6,6 @@ Created a school quality report pipeline during 6 month internship with New Visi
                 <p>
   2) Cleans data and set years to each year a report was extracted from. 
                   <p>
-  3) Changed titles of data tables to make sure they are readbable and added new changes to most recent year (2019).
+  3) Changes titles of data tables to make sure they are readbable and added new changes to most recent year (2019).
                     <p>
-  3) Pushed tranformed tables back to Reshift. 
+  3) Pushes tranformed tables back to Reshift. 
