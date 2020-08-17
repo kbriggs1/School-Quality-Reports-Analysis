@@ -10,5 +10,5 @@ Created a school quality report pipeline during 6 month internship with New Visi
                     <p>
   4) Pushes tranformed tables back to Reshift. 
                      <p>
-  5) Automated a web scraping script that scrapes the most recent and updates school quality report based on recent year then updates Data Analysis team via Slack. 
+  5) Automated a web scraping script that scrapes the most current school quality report based on recent year, then updates Dev team via Slack. 
 
